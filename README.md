@@ -3,6 +3,7 @@ Code for all AS Computer Science C Sharp exercises cuz open source yo 👍
 
 Upload status
 --
+✅ = done 
 
 ###### Sheet 1
  > Exercise 1A: 
