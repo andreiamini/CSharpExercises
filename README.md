@@ -83,11 +83,11 @@ Upload status
  > Exercise 11C: ✅
  
 ###### Sheet 12
- > Exercise 12A: 
+ > Exercise 12A: ✅
  
- > Exercise 12B:
+ > Exercise 12B: ✅
  
- > Exercise 12C: 
+ > Exercise 12C: ✅
 
 ###### Sheet 13
  > Exercise 13A: 
