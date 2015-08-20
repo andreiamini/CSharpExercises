@@ -54,32 +54,32 @@ Current status
  > Exercise 7C: 
  
 ###### Sheet 8
- > Exercise 8A: 
+ > Exercise 8A: ✅
  
- > Exercise 8B:
+ > Exercise 8B: ✅
  
- > Exercise 8C: 
+ > Exercise 8C: ✅
  
 ###### Sheet 9
- > Exercise 9A:
+ > Exercise 9A: ✅
  
- > Exercise 9B:
+ > Exercise 9B: ✅
  
- > Exercise 9C: 
+ > Exercise 9C: ✅
  
 ###### Sheet 10
- > Exercise 10A: 
+ > Exercise 10A: ✅
  
- > Exercise 10B:
+ > Exercise 10B: ✅
  
- > Exercise 10C: 
+ > Exercise 10C: ✅
  
 ###### Sheet 11
- > Exercise 11A: 
+ > Exercise 11A: ✅
  
- > Exercise 11B:
+ > Exercise 11B: ✅
  
- > Exercise 11C: 
+ > Exercise 11C: ✅
  
 ###### Sheet 12
  > Exercise 12A: 
