@@ -123,7 +123,7 @@ Current status
  
  > Exercise 17C: 
  
- ###### Sheet 18
+###### Sheet 18
  > Exercise 18A: 
  
  > Exercise 18B:
