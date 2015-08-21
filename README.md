@@ -90,11 +90,11 @@ Upload status
  > Exercise 12C: ✅
 
 ###### Sheet 13
- > Exercise 13A: 
+ > Exercise 13A: ✅ 
  
- > Exercise 13B:
+ > Exercise 13B: ✅ 
  
- > Exercise 13C: 
+ > Exercise 13C: ✅ 
  
 ###### Sheet 14
  > Exercise 14A: 
