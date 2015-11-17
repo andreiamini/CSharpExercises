@@ -17,7 +17,7 @@ namespace Exercise14CC
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnClick(object sender, EventArgs e)
         {
             String name = txtInput.Text;
             label1.Text = "Hello " + name + ", nice to meet you";
