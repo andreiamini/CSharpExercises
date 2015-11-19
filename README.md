@@ -99,9 +99,9 @@ Upload status
 ###### Sheet 14
  > Exercise 14A: 
  
- > Exercise 14B:
+ > Exercise 14B: 
  
- > Exercise 14C: 
+ > Exercise 14C: ✅
  
 ###### Sheet 15
  > Exercise 15A: 
